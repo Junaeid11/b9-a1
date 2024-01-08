@@ -1,0 +1,72 @@
+* {
+  font-family: "Merriweather", serif;
+}
+.prothom {
+  background: linear-gradient(rgba(28, 27, 27, 0.594), rgba(0, 0, 0, 0.321)),
+    url(./resources/Banner\ Image.png);
+  text-align: center;
+  justify-content: center;
+  color: aliceblue;
+  height:auto;
+  width: 1000px;
+  padding: 120px 150px;
+  background-repeat: no-repeat;
+   align-items: center;
+   margin: 0 auto;
+   border-radius: 16px;
+}
+.off {
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+  background: linear-gradient(rgba(28, 27, 27, 0.594), rgba(0, 0, 0, 0.321)),
+    url(./resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  padding: 230px 100px;
+  height: 150px;
+  width: 900px;
+  border-radius: 16px;
+}
+.midnight {
+  color: azure;
+  height: 100px;
+  width: auto;
+}
+.midnight-img {
+  justify-content: left;
+  margin: 80px 0px 70px 100px;
+}
+.btn {
+  border-radius: 10px 10px;
+  background: #646363;
+  border: 0;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+  padding: 15px 15px;
+  cursor: pointer;
+}
+.jaiga{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px 100px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 50px auto;
+    height: 300px;
+    width: 900px;
+}
+.jaiga span{
+    color: red;
+}
+.offer-related{
+    display: flex;
+}
