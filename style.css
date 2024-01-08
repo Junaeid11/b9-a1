@@ -69,4 +69,19 @@
 }
 .offer-related{
     display: flex;
+    margin: 50px auto;
+    padding: 40px 100px;
+    align-items: center;
+    text-align: left;
+    height: auto;
+    width: 1000px;
+    justify-content: center;
+}
+.new-year{
+    padding-left: 80px;
+}
+.offer-soon{
+    border-radius: 50%;
+    border: 10px solid red;
+    padding: 15px;
 }
