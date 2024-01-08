@@ -1,7 +1,7 @@
 * {
   font-family: "Merriweather", serif;
 }
-.prothom{
+.prothom {
   background: linear-gradient(rgba(28, 27, 27, 0.594), rgba(0, 0, 0, 0.321)),
     url(./resources/Banner\ Image.png);
   text-align: center;
@@ -33,9 +33,7 @@
   width: 900px;
   border-radius: 16px;
 }
-.chobi {
-  padding-bottom: 0px;
-}
+
 .midnight {
   color: azure;
   height: 100px;
@@ -101,21 +99,18 @@
 .functional h1 {
   font-size: 55px;
 }
-.gift-box{
+.gift-box {
   padding-top: 0px 1000px;
   align-items: center;
   justify-content: center;
   text-align: center;
   display: grid;
- 
-} 
+}
 
-
-
-.wow{
-    color: #646363;
-    height: 10px;
-    justify-content: center;
+.wow {
+  color: #646363;
+  height: 10px;
+  justify-content: center;
 }
 .portfolio {
   margin: 10px auto;
@@ -128,17 +123,18 @@
   font-size: 25px;
 }
 .glosa,
-.glosy{
+.glosy {
   display: flex;
   align-items: center;
   text-align: center;
   justify-content: center;
 }
 .glosary {
- margin: 10px 10px;
- padding: 0 auto;
+  margin: 10px 10px;
+  padding: 0 auto;
 }
 .subscribe {
+  border-radius: 15px;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -178,33 +174,34 @@
   cursor: pointer;
 }
 .glosary:hover {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 15px;
   box-shadow: #0c0101;
 }
-footer{
+footer {
   background-color: #0d0606;
   color: aliceblue;
   justify-content: space-between;
   display: flex;
-  padding: 150px 50px 0px;
-   margin: 50px auto 0px;
+  padding: 150px 60px 0px;
+  margin: 50px auto 0px;
   height: 500px;
   width: 1100px;
+  
 }
 
-.btn-sub:hover{
-    cursor: pointer;
+.btn-sub:hover {
+  cursor: pointer;
 }
-.icon-p{
-    padding-top: 120px;
-    margin: 0 auto;
+.icon-p {
+  padding-top: 120px;
+  margin: 0 auto;
 }
-.icon-p:hover{
-    cursor: pointer;
+.icon-p:hover {
+  cursor: pointer;
 }
-.no{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.no {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
