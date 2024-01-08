@@ -164,19 +164,20 @@
   border-radius: 20px;
 }
 .btn-sub {
-  font-size: 15px;
+  font-size: 16px;
   padding: 10px 10px;
   border: none;
   outline: none;
   background: rgb(255, 32, 32);
-  border-radius: 12px;
+  border-radius: 0px 12px 12px 0px;
   color: aliceblue;
-  margin-left: 10x;
+  margin-left: -10px;
 }
 .form-box input {
-  padding: 12px 80px 12px 10px;
+  padding: 12px 80px 10px 10px;
   margin-left: 50px;
-  border-radius: 15px 10px 15px 15px;
+  border-radius: 15px 10px 0px 15px;
+  border: none;
 }
 .btn:hover {
   cursor: pointer;
